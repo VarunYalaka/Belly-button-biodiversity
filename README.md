@@ -6,7 +6,9 @@ Tools and technologies used:
 
 * Java script
 
-* VSCode
+* HTML 
+
+* CSS
 
 * Plotly 
 
