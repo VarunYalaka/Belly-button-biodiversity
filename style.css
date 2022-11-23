@@ -1,0 +1,58 @@
+body {
+    color: #403e3e;
+    background-color:rgb(206, 247, 249);
+    background-image: url(./images/bb5.jpeg);
+   
+  }
+  
+  
+  
+    .col-md-12_jumbotron_text-center{
+      
+      background-image: url("./images/bb9.png");
+      background-size: 100% 100%;
+      text-align: center;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: larger;
+      color: #efe6e6;
+      font-feature-settings: "abvf" ;
+      border: #f9f6f6;
+      width:auto;
+      max-height: fit-content;
+      height: 110px;
+      width: 1150px;
+    }
+
+
+    .col-md-2{ 
+
+        height: 500px ;
+        width: 300px;
+        padding-top: 50px;
+        
+    }
+
+  .col-md-5{
+    height: 100px ;
+    width: 430px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    size: 200px; 
+    }
+
+    .div.gauge{
+    
+        
+            width: 100px;
+            height: 100px;
+            position:-webkit-sticky;
+            tab-size: 20px;
+        
+    }
+   
+    div.bubble{
+        padding-top: 20px;
+    }
+    
+
+    
